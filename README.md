@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
     <meta charset="utf-8">
@@ -21,5 +21,4 @@
 <h4>To list the contents of a current working directory;</h4> 
 <p>*the command “ls” is used.</P>
 
-  </body>
-</html>
+  
